@@ -7,6 +7,8 @@ Our study aims to find the most significant features/items in the Divorce Predic
 significance obtained by applying the correlation-based feature selection method on the divorce data set. Then, we will apply the direct classification method to find 
 the highest success rate. 
 
+Our research question is as follows: "Can use use the answers to questions available to us to predict whether a marriage will end in divorce?"
+
 The data set we will analyze is in csv format. From a total of 54 attributes we have chosen the following six:
 
 1. I know we can ignore our differences, even if things get hard sometimes.
