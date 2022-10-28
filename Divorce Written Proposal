@@ -1,1 +1,23 @@
-test test
+# DIVORCE PREDICTION USING CORRELATION BASED FEATURE SELECTION AND ARTIFICIAL NEURAL NETWORKS
+### Introduction
+
+Within the scope of this research, the divorce prediction was carried out by using the Divorce Predictors Scale (DPS) on the basis of Gottman couples therapy. 
+Of the participants, 84 (49%) were divorced and 86 (51%) were married couples. Participants completed the “Personal Information Form” and “Divorce Predictors Scale”. 
+Our study aims to find the most significant features/items in the Divorce Predictors Scale that affect the divorce. The most effective 6 features and their values of 
+significance obtained by applying the correlation-based feature selection method on the divorce data set. Then, we will apply the direct classification method to find 
+the highest success rate. 
+
+The data set we will analyze is in csv format. From a total of 54 attributes we have chosen the following six:
+
+1. I know we can ignore our differences, even if things get hard sometimes.
+
+2. We don't have time at home as partners.
+
+3. I think that one day in the future, when I look back, I see that my spouse and I have been in harmony with each other.
+
+4. My spouse and I have similar ideas about how marriage should be
+
+5. I know my spouse's basic anxieties.
+
+6. We're just starting a discussion before I know what's going on.
+
