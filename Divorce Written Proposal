@@ -21,3 +21,10 @@ The data set we will analyze is in csv format. From a total of 54 attributes we 
 
 6. We're just starting a discussion before I know what's going on.
 
+
+### Method
+1. Clean and wrangle data into tidy format. Use questions 2, 6, 11, 18, 26, and 40 based on their significance.
+2. Split data into 2 parts; training(¾) and testing data(¼) set, with roughly 51% of the data from class 1 (divorced), and 49% from class 0 (married). 
+3. Use cross-validation and split the data into 5 parts so that we can get the best k-value for our classifier. 
+4. Graph into bar plot Notice trends from question answers to predict divorce (1) or no divorce (0).
+
