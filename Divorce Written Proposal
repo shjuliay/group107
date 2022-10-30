@@ -7,7 +7,7 @@ Our study aims to find the most significant features/items in the Divorce Predic
 significance obtained by applying the correlation-based feature selection method on the divorce data set. Then, we will apply the direct classification method to find 
 the highest success rate. 
 
-Our research question is as follows: "Can use use the answers to questions available to us to predict whether a marriage will end in divorce?"
+Our research question is as follows: "Can we predict whether a marriage will end in divorce, given the 6 relationship-related questions?"
 
 The data set we will analyze is in csv format. From a total of 54 attributes we have chosen the following six:
 
@@ -29,4 +29,6 @@ The data set we will analyze is in csv format. From a total of 54 attributes we 
 2. Split data into 2 parts; training(¾) and testing data(¼) set, with roughly 51% of the data from class 1 (divorced), and 49% from class 0 (married). 
 3. Use cross-validation and split the data into 5 parts so that we can get the best k-value for our classifier. 
 4. Graph into bar plot Notice trends from question answers to predict divorce (1) or no divorce (0).
+
+    To visualize our dataset, we will be using a comparative bar plot that signifies the comparison between the 6 attributes chosen. There will be two different graphs representing the divorced and the un-divorced couples. We are using a bar plot because it summarizes enormous amount of data with each data category being represented by its frequency distribution. Moreover, it will allow an easy identification of patterns to make inferences.
 
